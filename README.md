@@ -36,6 +36,16 @@ For testing the trained policies on different scenarios, please refer to follwin
 | Optimizer           | Adam              |
 
 
+## Associated Publication
 
+This repository supports the findings of the following paper:
+
+> **[Multi-Objective Policy Optimization for Effective and Cost-Conscious Penetration Testing]**  
+> Authors: [Xiaojuan Cai], [Lulu Zhu], [Zhuo Li], [Hiroshi Koide]  
+>  WEBIST, 2025.  
+
+For additional implementation details, please refer to:
+
+`Appendices_Implement_Details/` – contains environment components, a simplified example of constrained policy optimization, and implementation notes of Random- and Rule-Based Method not included in the main paper.
 
 
